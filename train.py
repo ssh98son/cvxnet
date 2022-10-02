@@ -20,9 +20,9 @@ from __future__ import print_function
 import numpy as np
 import tensorflow.compat.v1 as tf
 
-from tensorflow_graphics.projects.cvxnet.lib import datasets
-from tensorflow_graphics.projects.cvxnet.lib import models
-from tensorflow_graphics.projects.cvxnet.lib import utils
+from lib import datasets
+from lib import models
+from lib import utils
 
 tf.disable_eager_execution()
 

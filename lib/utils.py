@@ -24,9 +24,9 @@ import scipy as sp
 from skimage import measure
 import tensorflow.compat.v1 as tf
 
-from tensorflow_graphics.projects.cvxnet.lib import datasets
-from tensorflow_graphics.projects.cvxnet.lib import models
-from tensorflow_graphics.projects.cvxnet.lib.libmise import mise
+from lib import datasets
+from lib import models
+from lib.libmise import mise
 
 import trimesh
 

@@ -1,0 +1,9 @@
+# Cython
+*.so
+*.o
+*.cpp
+*.pyc
+
+# Training
+data/
+models/
